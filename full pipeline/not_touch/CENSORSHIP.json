@@ -1,0 +1,478 @@
+[
+    {
+        "id": 0,
+        "orginal": "In your country, what factors constitute an obstacle to the exercise of free and independent journalism?"
+    },
+    {
+        "id": 2,
+        "orginal": "Is the broadcast licensing process transparent?"
+    },
+    {
+        "id": 4,
+        "orginal": "Do government officials and other politicians act in a way that guarantees press freedom?"
+    },
+    {
+        "id": 6,
+        "orginal": "Do public media outlets ever ignore sensitive information regarding the government or administration that is covered by private media?"
+    },
+    {
+        "id": 7,
+        "orginal": "During elections, is there a fair distribution of speaking time in broadcast media?"
+    },
+    {
+        "id": 12,
+        "orginal": "Has access to or journalistic coverage of one or more areas of the territory been restricted (administrative ban, strict governmental control, visa refusal, etc.) during the past 12 months?"
+    },
+    {
+        "id": 13,
+        "orginal": "Do public media outlets cover all political views?"
+    },
+    {
+        "id": 14,
+        "orginal": "Can citizens interact directly with journalists, without state control or surveillance, particularly in order to provide them with information?"
+    },
+    {
+        "id": 15,
+        "orginal": "Regarding the killings of journalists over the past 12 months, have the authorities done their best to ensure that the culprits are prosecuted and, if necessary, punished?"
+    },
+    {
+        "id": 16,
+        "orginal": "What level of control do the authorities exercise over journalistic content on the Internet?"
+    },
+    {
+        "id": 17,
+        "orginal": "In the past 12 months, have the authorities blocked accounts or had posts deleted in response to the posting or sharing of journalistic content?"
+    },
+    {
+        "id": 18,
+        "orginal": "Do the public authorities or main political actors organize and/or support large-scale misinformation or propaganda campaigns?"
+    },
+    {
+        "id": 19,
+        "orginal": "Do the authorities or leading political actors organise or support disinformation or propaganda campaigns?"
+    },
+    {
+        "id": 20,
+        "orginal": "Has the International Covenant on Civil and Political Rights been ratified?"
+    },
+    {
+        "id": 22,
+        "orginal": "Do the laws guaranteeing these rights impose restrictions that do not conform with international law on freedom of opinion and expression?"
+    },
+    {
+        "id": 23,
+        "orginal": "Do the laws provide for custodial sentences for defamation?"
+    },
+    {
+        "id": 24,
+        "orginal": "Does the law guarantee the secrecy of journalists' sources?"
+    },
+    {
+        "id": 25,
+        "orginal": "Does the law guarantee the right of access to public information?"
+    },
+    {
+        "id": 26,
+        "orginal": "Does the law guarantee journalists’ right to unionize?"
+    },
+    {
+        "id": 27,
+        "orginal": "Does the law provide mechanisms to guarantee pluralism and editorial independence?"
+    },
+    {
+        "id": 28,
+        "orginal": "Does the law provide mechanisms protecting journalists or media against abusive lawsuits/prosecution?"
+    },
+    {
+        "id": 29,
+        "orginal": "Do these laws make it possible to safeguard the rights they proclaim?"
+    },
+    {
+        "id": 30,
+        "orginal": "Are permissible restrictions of freedom of expression (protection of the rights of others, national security, public order, public health or morals) being abused to restrict press freedom?"
+    },
+    {
+        "id": 31,
+        "orginal": "Are laws against terrorism, separatism and/or extremism used against journalists?"
+    },
+    {
+        "id": 33,
+        "orginal": "Have journalists/media been abusively subjected to legally established sanctions such as licence suspension or withdrawal, press card withdrawal, fines and the like?"
+    },
+    {
+        "id": 34,
+        "orginal": "Does the law allow authorities to censor content, especially on websites, without the approval of a judge?"
+    },
+    {
+        "id": 35,
+        "orginal": "Do digital platforms censor journalistic content in accordance with court or administrative orders, in a manner that contradicts international standards?"
+    },
+    {
+        "id": 36,
+        "orginal": "Does the law establish crimes of opinion such as blasphemy or disrespect for authorities?"
+    },
+    {
+        "id": 37,
+        "orginal": "Does the law allow widespread or targeted surveillance of journalists?"
+    },
+    {
+        "id": 38,
+        "orginal": "When journalists are prosecuted, do they benefit from the right to a fair trial (effective remedy before an independent court ruling after hearing both parties, publicly, subject to appeal)?"
+    },
+    {
+        "id": 39,
+        "orginal": "Are journalists frequently convicted because of their work, whether for press offenses or for common law crimes?"
+    },
+    {
+        "id": 40,
+        "orginal": "Are crimes of violence against journalists investigated and do these investigations examine the possibility of a link between the crime and the victim’s journalistic activities ?"
+    },
+    {
+        "id": 41,
+        "orginal": "Do trials take place and do they lead to convictions or acquittals in accordance with international law on freedom of opinion and expression?"
+    },
+    {
+        "id": 42,
+        "orginal": "Do programs to protect journalists exist and are they effective?"
+    },
+    {
+        "id": 43,
+        "orginal": "Are there independent media outlets, meaning media outlets where the editorial board is fully able to take positions within the public space without any constraint exerted by the owners or political authorities?"
+    },
+    {
+        "id": 44,
+        "orginal": "Do journalists wishing to disseminate information benefit from sufficient quality Internet access at an affordable price?"
+    },
+    {
+        "id": 45,
+        "orginal": "Does the written press have adequate and affordable means of printing and distribution, equally available to everyone?"
+    },
+    {
+        "id": 46,
+        "orginal": "Does the state distribute its advertising and media assistance fairly among different media outlets?"
+    },
+    {
+        "id": 47,
+        "orginal": "Do private media outlets have to adapt their content in return for subsidies given by the state?"
+    },
+    {
+        "id": 49,
+        "orginal": "Do journalists receive luxury invitations, press trips or any other benefit in kind that could undermine the objectivity of their content?"
+    },
+    {
+        "id": 50,
+        "orginal": "Do political authorities put pressure on advertisers to favor certain media outlets?"
+    },
+    {
+        "id": 51,
+        "orginal": "Do journalists ever get paid by an entity other than their regular employer with the aim of influencing their content?"
+    },
+    {
+        "id": 52,
+        "orginal": "Are media owners’ conflicts of interest a frequent source of self-censorship for journalists?"
+    },
+    {
+        "id": 53,
+        "orginal": "To what extent is media ownership concentrated?"
+    },
+    {
+        "id": 54,
+        "orginal": "What share of private generalist news media is owned by groups with interests in sectors other than media?"
+    },
+    {
+        "id": 56,
+        "orginal": "Can advertisers collaborating with the media influence the editorial content of news media?"
+    },
+    {
+        "id": 57,
+        "orginal": "Is a significant proportion of the media and journalists corrupt?"
+    },
+    {
+        "id": 58,
+        "orginal": "Is the news media able to achieve financial stability?"
+    },
+    {
+        "id": 59,
+        "orginal": "Do the owners of news media outlets limit their editorial independence?"
+    },
+    {
+        "id": 60,
+        "orginal": "Does competition between news media outlets allow for high-quality journalism?"
+    },
+    {
+        "id": 61,
+        "orginal": "Is media ownership transparent?"
+    },
+    {
+        "id": 62,
+        "orginal": "Is the beneficial owner, i.e. the person or entity controlling the media outlet, known?"
+    },
+    {
+        "id": 63,
+        "orginal": "Are journalistic editorial content, sponsored content and advertising clearly differentiated?"
+    },
+    {
+        "id": 64,
+        "orginal": "Are journalistic functions, on the one hand, and economic and commercial functions, on the other, clearly distinguished within the media?"
+    },
+    {
+        "id": 65,
+        "orginal": "Do citizens generally have a high level of confidence in the credibility of news media outlets and their content?"
+    },
+    {
+        "id": 66,
+        "orginal": "Are cartoonists targeted by hate campaigns or incited to self-censor?"
+    },
+    {
+        "id": 68,
+        "orginal": "Is the pluralism of opinions of people in the country reflected in the media?"
+    },
+    {
+        "id": 71,
+        "orginal": "Can the media address culturally sensitive subjects without provoking a strong popular opposition movement?"
+    },
+    {
+        "id": 72,
+        "orginal": "Do socio-cultural or religious groups issue calls for censorship?"
+    },
+    {
+        "id": 73,
+        "orginal": "Have any journalists been assaulted in the past 12 months?"
+    },
+    {
+        "id": 74,
+        "orginal": "Have any journalists been tortured or suffered cruel and degrading treatment in the past 12 months?"
+    },
+    {
+        "id": 75,
+        "orginal": "Have any journalists been murdered in the past 12 months?"
+    },
+    {
+        "id": 76,
+        "orginal": "Have any journalists been arbitrarily detained in the past 12 months, or are they currently detained?"
+    },
+    {
+        "id": 77,
+        "orginal": "Have any journalists been kidnapped or have any disappeared in the past 12 months?"
+    },
+    {
+        "id": 78,
+        "orginal": "Is there a psycho-emotional risk for journalists linked to their job (public discrediting of their work, targeted verbal threats, harassment campaigns)?"
+    },
+    {
+        "id": 79,
+        "orginal": "Are journalists morally harassed in their workplace?"
+    },
+    {
+        "id": 80,
+        "orginal": "Are journalists or news media outlets at risk of having their equipment or facilities seized or damaged?"
+    },
+    {
+        "id": 81,
+        "orginal": "Are journalists or media outlets having their social media accounts or their websites hacked or blocked?"
+    },
+    {
+        "id": 82,
+        "orginal": "Do journalists suffer other forms of professional harm (loss of employment or income, for example) as a result of their work?"
+    },
+    {
+        "id": 83,
+        "orginal": "Are journalists monitored and/or spied on by the authorities?"
+    },
+    {
+        "id": 84,
+        "orginal": "Are journalists' sources subjected to physical or moral pressure?"
+    },
+    {
+        "id": 85,
+        "orginal": "Can you elaborate on any specific cases or do you have any other comments?"
+    },
+    {
+        "id": 86,
+        "orginal": "What influence does the government have in media favorable to its activities?"
+    },
+    {
+        "id": 87,
+        "orginal": "What influence does the government have in media media critical of its activities?"
+    },
+    {
+        "id": 88,
+        "orginal": "What influence does the government have in public service media?"
+    },
+    {
+        "id": 89,
+        "orginal": "What degree of autonomy from political authorities do the heads of the broadcast regulatory body have?"
+    },
+    {
+        "id": 90,
+        "orginal": "What degree of autonomy from political authorities do the public broadcast leaders  have?"
+    },
+    {
+        "id": 91,
+        "orginal": "Do the news media outlets with the largest audiences provide news coverage that is independent of the government in public broadcasting?"
+    },
+    {
+        "id": 92,
+        "orginal": "Do the news media outlets with the largest audiences provide news coverage that is independent of the government in privately-owned broadcasting?"
+    },
+    {
+        "id": 93,
+        "orginal": "Do the news media outlets with the largest audiences provide news coverage that is independent of the government in newspapers and periodicals?"
+    },
+    {
+        "id": 94,
+        "orginal": "Outside of election periods, does the government force the media to give it speaking time without time being given to the opposition?"
+    },
+    {
+        "id": 95,
+        "orginal": "Outside of election periods, does the government force the media to give it speaking time without being questioned by journalists?"
+    },
+    {
+        "id": 96,
+        "orginal": "How easily can the government achieve the dismissal of public broadcast journalists?"
+    },
+    {
+        "id": 97,
+        "orginal": "How easily can the government achieve the dismissal of private media journalists?"
+    },
+    {
+        "id": 98,
+        "orginal": "How easily can the government achieve the dismissal of public broadcast leaders?"
+    },
+    {
+        "id": 99,
+        "orginal": "How easily can the government achieve the dismissal of private media leaders?"
+    },
+    {
+        "id": 100,
+        "orginal": "How easily can the government achieve the dismissal ofbroadcast regulatory body leaders?"
+    },
+    {
+        "id": 101,
+        "orginal": "Does the government favor (access to press conferences, interviews, etc.) certain media outlets because of their political positioning (favorable editorial content)?"
+    },
+    {
+        "id": 102,
+        "orginal": "Does the government favor (access to press conferences, interviews, etc.) certain media outlets because of closeness between politicians and media owners?"
+    },
+    {
+        "id": 103,
+        "orginal": "Have politicians or political parties carried out public insults against journalists or media outlets in the past 12 months?"
+    },
+    {
+        "id": 104,
+        "orginal": "Have politicians or political parties carried out explicit or implicit  threats actions against journalists or media outlets in the past 12 months?"
+    },
+    {
+        "id": 105,
+        "orginal": "Have politicians or political parties carried out inciting hatred  against journalists or media outlets in the past 12 months?"
+    },
+    {
+        "id": 106,
+        "orginal": "Is freedom of expression and press freedom guaranteed in the Constitution?"
+    },
+    {
+        "id": 107,
+        "orginal": "Is freedom of expression and press freedom guaranteed in the law?"
+    },
+    {
+        "id": 108,
+        "orginal": "Does the law set out restrictive conditions regarding the creation of a media outlet?"
+    },
+    {
+        "id": 109,
+        "orginal": "Does the law set out restrictive conditions to access the profession of journalism?"
+    },
+    {
+        "id": 110,
+        "orginal": "Do administrative constraints hinder the launch of independent private media outlets?"
+    },
+    {
+        "id": 111,
+        "orginal": "Do financial constraints  hinder the launch of independent private media outlets?"
+    },
+    {
+        "id": 112,
+        "orginal": "What influence does economic power have over the editorial board of public media?"
+    },
+    {
+        "id": 113,
+        "orginal": "What influence does economic power have over the editorial board of private media?"
+    },
+    {
+        "id": 114,
+        "orginal": "Is the practice of journalism prohibited or prevented based on nationality?"
+    },
+    {
+        "id": 115,
+        "orginal": "Is the practice of journalism prohibited or prevented based on ethnicity?"
+    },
+    {
+        "id": 116,
+        "orginal": "Is the practice of journalism prohibited or prevented based on social background?"
+    },
+    {
+        "id": 117,
+        "orginal": "Is the practice of journalism prohibited or prevented based on religion?"
+    },
+    {
+        "id": 118,
+        "orginal": "Is the practice of journalism prohibited or prevented based on gender or sex?"
+    },
+    {
+        "id": 119,
+        "orginal": "Is the practice of journalism prohibited or prevented based on sexual orientation?"
+    },
+    {
+        "id": 120,
+        "orginal": "Is the practice of journalism prohibited or prevented based on language?"
+    },
+    {
+        "id": 121,
+        "orginal": "Do journalists practice self-censorship for fear of legal proceedings (fines, imprisonment)?"
+    },
+    {
+        "id": 122,
+        "orginal": "Do journalists practice self-censorship for fear of damage to their career or reputation?"
+    },
+    {
+        "id": 123,
+        "orginal": "Do journalists practice self-censorship for fear of physical attacks on the journalist or their loved ones, in the workplaceor at home?"
+    },
+    {
+        "id": 124,
+        "orginal": "Overall, is the media free to disclose information on political authorities?"
+    },
+    {
+        "id": 125,
+        "orginal": "Overall, is the media free to disclose information on economic authorities?"
+    },
+    {
+        "id": 126,
+        "orginal": "Overall, is the media free to disclose information on religious authorities?"
+    },
+    {
+        "id": 127,
+        "orginal": "Overall, is the media free to disclose information on military authorities?"
+    },
+    {
+        "id": 128,
+        "orginal": "Overall, is the media free to disclose information on the police/the justice system?"
+    },
+    {
+        "id": 129,
+        "orginal": "Overall, is the media free to disclose information on organized crime?"
+    },
+    {
+        "id": 130,
+        "orginal": "Overall, is the media free to disclose information on armed groups?"
+    },
+    {
+        "id": 131,
+        "orginal": "Have politicians or political parties carried Public discreditation against journalists or media outlets in the past 12 months?"
+    },
+    {
+        "id": 132,
+        "orginal": "Does the regulation or self-regulation applied in the country favor giving adequate priority tojournalistic content on digital platforms?"
+    }
+]
