@@ -2,8 +2,6 @@
 
 This is the reproducibility package for the paper 'The Differential Misalignment of Large Language Models in Evaluating Press Freedom'
 
-Here’s a complete, professional version for the `code/` section of your README, including a description of the Stata do-file:
-
 ---
 
 ## `code/`
