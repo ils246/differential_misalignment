@@ -2,14 +2,32 @@
 
 This is the reproducibility package for the paper 'The Differential Misalignment of Large Language Models in Evaluating Press Freedom'
 
-# src/
-Contians the code to repdocue the analysis in the paper
-plots_for_paper_final.ipynb - code for reproducing the plots in the paper
+Here’s a complete, professional version for the `code/` section of your README, including a description of the Stata do-file:
 
-# data/ 
-Contains the data to repdocue the analysis in the paper
+---
 
-Here’s an improved version of your README section that is clearer, more structured, and more professional. I’ve made the language more concise, corrected grammar, and formatted key parameters for readability:
+## `code/`
+
+This folder contains the Stata script used to replicate the regression results reported in the paper.
+
+* **`do.do`**: This is the main script that reproduces **Table 2** and **Table A1** using the dataset located in the `data/` folder.
+
+---
+
+## `data/`
+
+This folder contains the dataset used to reproduce the analysis presented in the paper.
+
+* **`regression_1_data.csv`**: This file includes the data required to generate **Table 2** and **Table A1** in the appendix of the paper.
+
+To reproduce these tables, use the Stata do-file provided in the `code/` folder:
+
+```
+code/do.do
+```
+
+Make sure your working directory is correctly set so that the script can locate the data file.
+
 
 ---
 
